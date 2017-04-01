@@ -1,0 +1,4 @@
+*~
+.vagrant
+site.retry
+*.log
