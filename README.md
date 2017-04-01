@@ -1,3 +1,5 @@
+(cloned from https://github.com/rosswilson/graphite-grafana-vagrant-box)
+
 # Grafana Ansible Quick Start
 
 Quickly provision a Vagrant box with:
